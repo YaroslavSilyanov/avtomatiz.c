@@ -1,10 +1,3 @@
-/******************************************************************************
-
-                            Online C Compiler.
-                Code, Compile, Run and Debug C program online.
-Write your code in this editor and press "Run" button to compile and execute it.
-
-*******************************************************************************/
 #include <stdio.h>
 #include <string.h>
 
@@ -29,11 +22,11 @@ int main() {
     vhod t;
 
     printf("id name data product cena\n");
-        while (scanf("%d %s %s %s %d", &t.id, t.name, t.data, t.product, &t.cena) == 5) {
-        if (t.id == 0) break; 
-        fprintf(in, "%d %s %s %s %d\n", t.id, t.name, t.data, t.product, t.cena);
-        
-}
+    while (scanf("%d", &t.id) == 1 && t.id != 0) {
+    scanf("%s %s %s %d", t.name, t.data, t.product, &t.cena);
+    
+    fprintf(in, "%d %s %s %s %d\n", t.id, t.name, t.data, t.product, t.cena);
+    }
     fclose(in);
 
     in = fopen("in.txt", "r");
