@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1733266664 source:c:\users\danii\desktop\order\input_output.c
+	<stdio.h>
+	"order.h"
+
+1733266664 c:\users\danii\desktop\order\order.h
+
+1733266664 source:c:\users\danii\desktop\order\main.c
+	<stdio.h>
+	<string.h>
+	"order.h"
+
+1733267215 source:c:\users\danii\desktop\order\processing.c
+	<stdio.h>
+	<string.h>
+	"order.h"
+
