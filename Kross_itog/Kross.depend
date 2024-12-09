@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1733764734 source:c:\users\danii\desktop\kross\input.c
+	<stdio.h>
+	"input.h"
+
+1733762579 c:\users\danii\desktop\kross\input.h
+	"structs.h"
+
+1733762579 c:\users\danii\desktop\kross\structs.h
+
+1733764160 source:c:\users\danii\desktop\kross\main.c
+	<stdio.h>
+	"input.h"
+	"processing.h"
+	"sorting.h"
+	"commands.h"
+
+1733762579 c:\users\danii\desktop\kross\processing.h
+	"structs.h"
+
+1733762579 c:\users\danii\desktop\kross\sorting.h
+	"structs.h"
+
+1733762579 c:\users\danii\desktop\kross\commands.h
+	"structs.h"
+
+1733764704 source:c:\users\danii\desktop\kross\processing.c
+	<string.h>
+	"processing.h"
+
+1733764704 source:c:\users\danii\desktop\kross\sorting.c
+	<string.h>
+	"sorting.h"
+
+1733764704 source:c:\users\danii\desktop\kross\commands.c
+	<stdio.h>
+	"commands.h"
+	"input.h"
+

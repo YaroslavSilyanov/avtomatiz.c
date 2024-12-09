@@ -1,0 +1,7 @@
+Imya_Zakazchika Sredniy_Chek
+yaroslav 550.00
+maxim 2000.00
+anton 500.00
+vika 4500.00
+
+Sredniy chek vseh zakazov: 1620.00

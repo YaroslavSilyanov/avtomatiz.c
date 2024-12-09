@@ -1,0 +1,6 @@
+1 yaroslav 08.08.2024 krossovki 1000
+2 maxim 09.09.2024 shtani 2000
+3 yaroslav 10.08.2024 noski 100
+4 anton 11.11.2024 pomada 500
+5 vika 12.12.2024 krossovki 4500
+
